@@ -4,6 +4,20 @@ Script de setup automático para projetos TypeScript puro, com suporte a ES Modu
 
 ## Como usar
 
+## Compatibilidade
+
+Este script pode ser executado em **qualquer sistema operacional**:
+
+- **Linux**
+- **macOS**
+- **Windows** (usando [WSL](https://learn.microsoft.com/pt-br/windows/wsl/) ou [Git Bash](https://gitforwindows.org/))
+
+Basta garantir que você tenha o **Node.js**, **npm** e um terminal Bash disponíveis.
+
+---
+
+Siga as instruções abaixo para rodar o script e configurar seu projeto
+
 1. Dê permissão de execução ao script:
 
    ```sh
